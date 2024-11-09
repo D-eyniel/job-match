@@ -1,0 +1,5 @@
+{
+    "connectionString": "mongodb://localhost:27017",
+    "database": "user_db",
+    "collection": "users"
+}
